@@ -1,7 +1,6 @@
 .pag-ent{
     display: flex;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin: 0;
     background-color: white;
 }    
 a:hover{
