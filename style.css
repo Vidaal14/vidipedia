@@ -12,15 +12,12 @@ a{
     text-decoration: none;
     color: #3366cc;
 }
-header{
 
-}
 h1{
    border-bottom: solid 1px black;
 }
 body{
-    background-color: #f7f9fa;
-    
+    background-color: #f7f9fa; 
 }
 h2{
     border-bottom: solid 1px black;
@@ -33,7 +30,4 @@ h2{
 p{
     font-size: 15px;
     text-align: justify;
-}
-footer{
-    
 }
