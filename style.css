@@ -4,6 +4,7 @@
 }
 .lifes{
     display: flex;
+    gap: ;
 }    
 a:hover{
     text-decoration: underline;
@@ -41,5 +42,5 @@ nav{
     display: flex;
 }
 .mss{
-    
+
 }
