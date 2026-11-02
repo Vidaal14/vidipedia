@@ -6,9 +6,9 @@ a{
     text-decoration: none;
     color: #3366cc;
 }
-body{
-    flex: content;
+header{
+    display: flex;
 }
 h1{
-    
+
 }
