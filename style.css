@@ -1,4 +1,6 @@
-
+.pag-ent{
+    margin: 10px auto 10px auto;
+}    
 a:hover{
     text-decoration: underline;
 }
@@ -11,8 +13,13 @@ header{
     display: contents;
 }
 h1{
-   align-content: ;
+   
 }
 body{
     align-items: center;
 }
+h2{
+    border-bottom: solid 1px black;
+    margin: 0px 5px;
+}
+ç
