@@ -35,7 +35,8 @@ p{
     text-align: justify;
 }
 nav{
-   width: 150%; 
+   width: 150%;
+   gap: 10px; 
 }
 .footer{
     display: flex;
