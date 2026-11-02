@@ -8,7 +8,7 @@ a{
 }
 header{
     display: flex;
-    nav-left: auto;
+    nav-left: current;
 }
 h1{
 
