@@ -4,7 +4,6 @@
 }
 .lifes{
     display: flex;
-    gap: 10px;
 }    
 a:hover{
     text-decoration: underline;
