@@ -1,7 +1,7 @@
 a:hover{
-    color: rgb(255, 0, 0);
     text-decoration: underline;
 }
 a{
     text-decoration: none;
+    color: #3293e3;
 }
